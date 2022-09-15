@@ -15,11 +15,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
-      </header>
+          Aprendiento React
+            <h2>Homenaje a Les Luthiers</h2>
+          </a>
+    </header>
     </div>
-  );
-}
-
+    
+      
+    
+  )
+  }
 export default App;
